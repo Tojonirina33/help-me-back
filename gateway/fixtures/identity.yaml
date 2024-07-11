@@ -1,0 +1,123 @@
+- model: gateway.identityrecord
+  fields:
+    identity_key: O1K2PR0YRRWB
+    first_name: Alice
+    last_name: Smith
+    sexe: female
+    birth_date: 1995-08-23
+    birth_place: Springfield
+    profession: Data Analyst
+    address: 789 XYZ Street Springfield
+    distinctive_trait: Freckles
+- model: gateway.identityrecord
+  fields:
+    identity_key: E7KGVICZJZMJ
+    first_name: Michael
+    last_name: Johnson
+    sexe: male
+    birth_date: 1988-04-15
+    birth_place: Riverside
+    profession: Marketing Strategist
+    address: 456 PQR Avenue Riverside
+    distinctive_trait: Mole on left cheek
+- model: gateway.identityrecord
+  fields:
+    identity_key: OZ0VIK28BWTV
+    first_name: Emily
+    last_name: Brown
+    sexe: female
+    birth_date: 1992-12-10
+    birth_place: Manchester
+    address: 987 RST Lane Manchester
+    profession: Software Engineer
+    distinctive_trait: Dimples
+- model: gateway.identityrecord
+  fields:
+    identity_key: FJV89375HJ6M
+    first_name: David
+    last_name: Garcia
+    sexe: male
+    birth_date: 1985-06-28
+    birth_place: Barcelona
+    address: 1010 ABC Street Barcelona
+    profession: Nurse Practitioner
+    distinctive_trait: Scar on forehead
+- model: gateway.identityrecord
+  fields:
+    identity_key: BB5G84H7SN5H
+    first_name: Sophia
+    last_name: Martinez
+    sexe: female
+    birth_date: 1998-02-20
+    birth_place: Los Angeles
+    profession: Financial Advisor
+    address: 222 CDE Road Los Angeles
+    distinctive_trait: Tattoo on wrist
+- model: gateway.identityrecord
+  fields:
+    identity_key: Z98399FJ0OTX
+    first_name: Matthew
+    last_name: Taylor
+    sexe: male
+    birth_date: 1990-10-03
+    birth_place: London
+    profession: Graphic Designer
+    address: 777 MNO Boulevard London
+    distinctive_trait: Pierced ear
+- model: gateway.identityrecord
+  fields:
+    identity_key: 47P6E8N12UJW
+    first_name: Olivia
+    last_name: Rodriguez
+    sexe: female
+    birth_date: 1983-09-17
+    birth_place: Madrid
+    profession: Mechanical Engineer
+    address: 333 GHI Street Madrid
+    distinctive_trait: Freckles
+- model: gateway.identityrecord
+  fields:
+    identity_key: 7BT5EVJBIFWN
+    first_name: Daniel
+    last_name: Hernandez
+    sexe: male
+    birth_date: 1994-07-07
+    birth_place: New York
+    profession: Social Media Manager
+    address: 888 UVW Avenue New York
+    distinctive_trait: Birthmark on arm
+- model: gateway.identityrecord
+  fields:
+    identity_key: 2JWTVJQRV2VG
+    first_name: Isabella
+    last_name: Lopez
+    sexe: female
+    birth_date: 1987-05-13
+    birth_place: Miami
+    profession: Chef
+    address: 555 JKL Lane Miami
+    distinctive_trait: Pierced nose
+
+- model: gateway.identityrecord
+  fields:
+  identity_key: MLHA75Y48UE0
+  first_name: Ethan
+  last_name: Gonzalez
+  sexe: male
+  birth_date: 1996-11-25
+  birth_place: Chicago
+  profession: Veterinarian
+  address: 1212 WXY Road Chicago
+  distinctive_trait: Tattoo on forearm
+
+- model: gateway.identityrecord
+  fields:
+  identity_key: O0RXKJNO02WF
+  first_name: Mia
+  last_name: Perez
+  sexe: female
+  birth_date: 1989-03-30
+  birth_place: Paris
+  profession: Investment Banker
+  address: 999 XYZ Avenue Paris
+  distinctive_trait: Glasses
