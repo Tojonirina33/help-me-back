@@ -8,7 +8,7 @@ Before you begin, make sure you have the following installed on your machine:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Story-Of-My-Health/backend.git
+git clone https://github.com/Tojonirina33/help-me-back.git
 ```
 
 ### Set Up Virtual Environment
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Rename the env.example file to .env. This file contains environment variables used by the project. You may need to customize these variables based on your local configuration.
 
 ```bash
-cd story_of_my_health
+cd help_me
 mv env.example .env  # Mac OS / Linux
 ren env.example .env  # Windows
 ```
